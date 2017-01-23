@@ -1,0 +1,32 @@
+Changes Done :-
+
+>All mentioned bug removed.
+>UI Changed (Material Design).
+>Minor Bugs the one's i encounter while working with the assignment fixed or removed.
+>Changed Version from 1.0 to 1.1 :p
+>All Files Properly arranged JavaScript in different folder css in different.
+
+Change in code:-
+>Minor tweaking in lot of lines of code.
+
+About removing major mentioned bugs
+>XML file generated in proper format now because of code in line (158-160) in index.php.
+>Now ADD More works as expected old values remains this i achieved by adding code in line 12 script_index.js.
+>Page Redirection Works Now in every case code in line (36-51) in script_index.js. 
+
+About MyTask 
+>Implemented Delete Button functionality (removes from page and file both) code in line 47-52 script_index.js & 124-127 in index.php.
+>Fixed the Warning thing if a field is left empty its SID becomes 0 automatically and that device is not saved in xml file code in line 25-30 script_index.js & 175-179 & 255-259 in index.php.
+>Now the value of the <mdMAP> will be changed only when we add more jouleIOs with the same SID and will be added just below the <md> tag having the same SID code in 180-187 & 260-261.
+
+>Most of the bugs were repetative means in both the files so i removed from the other JouleIOIndex.php in the same way.
+>Changes to remove Small bugs like replacing $i with $j not mentioned in details.
+>Fixed Layout Problem in Add more in JouleIOIndex.php page. Now Proper Table Constructed with each Add More Click.
+
+I Would Suggest Rather than Switching Pages from index to JouleIOIndex we could use a model or something which makes code less redundant and better in usability too, but as it was a part of my task to remove page redirect bug i removed that only.
+
+Thanks for Reading.
+ScreenShot of Running Application Attached in ScreenShots folder. 
+
+
+KEEP YOUR INTERNET CONNECTED CAUSE THE APP USES CDN'S
